@@ -4,4 +4,6 @@ p{
 h1{
     color:brown;
 }
-h
+h2{
+    background-color: aqua;
+}
