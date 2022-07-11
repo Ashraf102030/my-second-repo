@@ -2,8 +2,5 @@ p{
     color:blue;
 }
 h1{
-    color:brown;
-}
-h2{
-    background-color: aqua;
+    color:red;
 }
